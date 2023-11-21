@@ -91,6 +91,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="Get Started"
+                    android:textStyle="bold"
                     android:textColor="@color/white"
                     android:background="@drawable/orange_button_background"
                     android:textSize="17sp"
